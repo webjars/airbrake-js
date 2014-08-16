@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>airbrake-js</artifactId>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.3</version>
     <name>Airbrake-JS</name>
     <description>WebJar for Airbrake-JS</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/airbrake-js</url>
         <connection>scm:git:https://github.com/webjars/airbrake-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/airbrake-js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>airbrake-js-0.3</tag>
     </scm>
     
     <dependencies>
